@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/15665014/136378828-f8cddda6-9a4d-4ea7-99f7-6c30f9fe652a.png" style="float:left;margin:15px;" width="1.5%"/> # I have over 3 years hands-on experience using React.js, Node.js, JavaScript and Python3 <br>
+<img src="https://user-images.githubusercontent.com/15665014/136378828-f8cddda6-9a4d-4ea7-99f7-6c30f9fe652a.png" style="float:left;margin:15px;" width="1.5%"/> #I have over 3 years hands-on experience using React.js, Node.js, JavaScript and Python3 <br>
 📫 How to reach me: donaldnyingifa@gmail.com <br>
 ⚡ Fun fact: I love swimming && playing video games
 
