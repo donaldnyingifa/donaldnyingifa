@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 📫 How to reach me: donaldnyingifa@gmail.com <br>
 ⚡ Fun fact: I love swimming && playing video games
 </p>
+<img src="https://image.shutterstock.com/image-photo/portrait-screaming-clown-isolated-on-260nw-245725456.jpg"/>
