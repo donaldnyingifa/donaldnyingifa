@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.icons8.com/ios-glyphs/30/000000/laptop.png"/> Over 3 years hands-on experience using React.js, Node.js, JavaScript and Python3
+📫 How to reach me: donaldnyingifa@gmail.com
+⚡ Fun fact: I love swimming && playing video games
