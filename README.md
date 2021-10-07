@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <style>
-        img {
-            float: left; 
-            margin: 5px;
-        }
-    </style>
-<img src="https://user-images.githubusercontent.com/15665014/136378828-f8cddda6-9a4d-4ea7-99f7-6c30f9fe652a.png" width="1.5%"/>
+
+<img src="https://user-images.githubusercontent.com/15665014/136378828-f8cddda6-9a4d-4ea7-99f7-6c30f9fe652a.png" style="float: 'left', margin: '5px'" width="1.5%"/>
  Over 3 years hands-on experience using React.js, Node.js, JavaScript and Python3 <br>
 📫 How to reach me: donaldnyingifa@gmail.com <br>
 ⚡ Fun fact: I love swimming && playing video games
