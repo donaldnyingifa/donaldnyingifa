@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧑🏻‍💻 I have over 3 years hands-on experience using React.js, Node.js, JavaScript and Python3 <br>
+## 🧑🏻‍💻 I have over 3 years hands-on experience using React.js, Node.js, JavaScript, firebase and Python3 <br>
 📫 How to reach me: donaldnyingifa@gmail.com <br>
 ⚡ Fun fact: I love swimming && playing video games
 
