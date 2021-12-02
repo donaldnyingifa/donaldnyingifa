@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 📫 How to reach me: donaldnyingifa@gmail.com <br>
 ⚡ Fun fact: I love swimming && playing video games
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldnyingifa)](https://github.com/donaldnyingifa/github-readme-stats)
