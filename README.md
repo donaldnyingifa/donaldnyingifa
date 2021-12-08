@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧑🏻‍💻 Creative Web Developer with hands-on experience using React.js, Node.js, JavaScript, Firebase and Python3 <br>
+## 🧑🏻‍💻 I am a creative web developer with hands-on experience using React.js, Node.js, JavaScript, Firebase and Python3 <br>
 📫 How to reach me: donaldnyingifa@gmail.com <br>
-⚡ Fun fact: I love swimming && playing video games
+⚡ Fun fact: I love swimming and playing video games
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldnyingifa)](https://github.com/donaldnyingifa/github-readme-stats)
